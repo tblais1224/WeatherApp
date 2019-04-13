@@ -1,0 +1,7 @@
+#searchContainer {
+  display: flex;
+  justify-content: center;
+}
+#citySearchh1{
+    padding-right: 25px;
+}
