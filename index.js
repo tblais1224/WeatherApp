@@ -1,4 +1,4 @@
-var apikey = "2444df37c9db2531b3a617d61c6a420b";
+var apikey = "add-api-key";
 
 var temp;
 var loc;

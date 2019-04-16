@@ -1,0 +1,1 @@
+##Be sure to add your own api key from openweathermap.org
